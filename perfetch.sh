@@ -118,3 +118,4 @@ fi
 
 #NOTE FROM AUTHOR (RetroGitArc):
 #This code is made for the simplicity best, as this code, even inputted in the roots, keeps no connections with the system itself, so if you're deciding to nuke this code if not satisfied, there's no issue and for the Privacy freaks, i see you, dont worry, this code only collects data to print, remove them if wanted and paste your own made up shit for shits and giggles, tweaking is HEAVILY SUPPORTED FOR THE ENTIRE CODE. [Especially for Arch / Arch based OS's users]. Anyways, Have Fun!
+#VERSION 1.0.0
