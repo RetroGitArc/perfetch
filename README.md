@@ -30,7 +30,7 @@ curl -O https://raw.githubusercontent.com/RetroGitArc/perfetch/main/perfetch.sh
 - This is how it should initially look, after that configuration is possible from any editors possible, gedit supported too, and the code is provided with comments to help you out with understanding and configuring the code.
 ---
 **> Important Points:**
-- If you like the fetch tool, its recommened to check the **repository's pinned comment in the Announcements** for more details on how to set it up in your /usr/local/bin for ease.
+- If you like the fetch tool, its recommened to check the **repository's pinned comment in the Announcements in Discussions Tab** for more details on how to set it up in your /usr/local/bin for ease.
 - And if in future you no longer decide to use the tool, feel free to remove it as its **not co-relatively connected with the root for any damage to be delievered to the system.**
 
 **> Important Note:
