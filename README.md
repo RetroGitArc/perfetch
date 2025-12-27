@@ -31,6 +31,10 @@ curl -O https://raw.githubusercontent.com/RetroGitArc/perfetch/main/perfetch.sh
 ---
 - If you like the fetch tool, its recommened to check the **repository's pinned comment in the Announcements** for more details on how to set it up in your /usr/local/bin for ease.
 - And if in future you no longer decide to use the tool, feel free to remove it as its **not co-relatively connected with the root for any damage to be delievered to the system.**
+
+**> Important Note:
+This fetch tool uses a bash command to display image, No pre-loaded ASCII distro logos are in this fetch tool like neofetch, fastfetch or any other fetch tool has.**
+
 ---
 # Features:
 
