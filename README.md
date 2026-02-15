@@ -37,6 +37,21 @@ curl -O https://raw.githubusercontent.com/RetroGitArc/perfetch/main/perfetch.sh
 This fetch tool uses a bash command to display image, Currently 33 pre-loaded ASCII distro logos are in this fetch tool, listed in the code itself.**
 
 ---
+# New Functions:
+
+**> Packages code snippet fixed, output runtime is slightly slow but packages are finally shown.**
+
+**> CPU Display line updated.**
+
+**> Memory Info Detection code snippet updated.**
+
+**> DE [Desktop Environment] & WM [Window Manager] code snippet added in code**
+
+**> Uptime code snippet fixed.**
+
+**> New code snippet added which matches the colour of the info box to the respective ASCII distro logo.**
+
+---
 # Features:
 
 **> Single file of code provided with a .zip folder containing the ASCII distro logos**
