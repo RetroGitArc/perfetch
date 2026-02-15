@@ -18,7 +18,8 @@
 - Installation is supported in both ways, link and .zip file [Straight from this github itself]
 
 **Link [Copy and Run on Terminal]:**
-curl -O https://raw.githubusercontent.com/RetroGitArc/perfetch/main/perfetch.sh
+- curl -O https://raw.githubusercontent.com/RetroGitArc/perfetch/main/perfetch.sh
+- curl -O https://raw.githubusercontent.com/RetroGitArc/perfetch/main/perfetch-logos.zip
 
 **Run:**
 - chmod +x perfetch.sh [Makes it executable]
