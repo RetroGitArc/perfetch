@@ -1,16 +1,16 @@
 # Perfetch
-*Simple Fetch tool for Linux, provided with access to tweak the whole code to your own desires.*
+**Simple Fetch tool for Linux, provided with access to tweak the whole code.**
 
 -----
 **> Initial Look:**
 
-<img width="1920" height="1080" alt="Screenshot From 2025-12-27 12-52-32" src="https://github.com/user-attachments/assets/ed8572fd-4f25-4575-a01e-85387867ad40" />
+<img width="1920" height="1078" alt="Screenshot From 2026-02-15 21-13-26" src="https://github.com/user-attachments/assets/a5598c8a-4b2f-4d20-9a56-3b05efb63056" />
 
 -----
 
 **> Owner's Self:**
 
-<img width="1920" height="1080" alt="Screenshot From 2025-12-27 12-52-50" src="https://github.com/user-attachments/assets/cd7e1eea-c135-4ff5-a55f-f73913d31f08" />
+<img width="1920" height="1078" alt="Screenshot From 2026-02-15 21-16-34" src="https://github.com/user-attachments/assets/2c4d21f9-ed74-4caf-9490-0ba6d3e2266f" />
 
 -----
 **> Setup:**
@@ -27,25 +27,23 @@ curl -O https://raw.githubusercontent.com/RetroGitArc/perfetch/main/perfetch.sh
 <img width="1914" height="1073" alt="Screenshot From 2025-12-27 13-47-09" src="https://github.com/user-attachments/assets/ba22152c-7c3f-4a81-9954-89d6250f6a53" />
 
 ---
-- This is how it should initially look, after that configuration is possible from any editors possible, gedit supported too, and the code is provided with comments to help you out with understanding and configuring the code.
+- This is how it should initially look, after that configuration is **possible from any editors**, gedit supported too, and the code is **provided with comments to help** you out with understanding and configuring the code.
 ---
 **> Important Points:**
 - If you like the fetch tool, its recommened to check the **repository's pinned comment in the Announcements in Discussions Tab** for more details on how to set it up in your /usr/local/bin for ease.
 - And if in future you no longer decide to use the tool, feel free to remove it as its **not co-relatively connected with the root for any damage to be delievered to the system.**
 
 **> Important Note:
-This fetch tool uses a bash command to display image, No pre-loaded ASCII distro logos are in this fetch tool like neofetch, fastfetch or any other fetch tool has.**
+This fetch tool uses a bash command to display image, Currently 33 pre-loaded ASCII distro logos are in this fetch tool, listed in the code itself.**
 
 ---
 # Features:
 
-**> Single file:**  just 4KB of bash
+**> Single file of code provided with a .zip folder containing the ASCII distro logos**
 
-**> Heavily tweakable:** every part of the code is editable, so different distro users can tweak the code to their desires.
+**> Heavily tweakable and you can add your distro ASCII logo if its not present within the code, concatenate (cat) command is used to display the ASCII logo.**
 
-**> Bash Image Line:** jp2a supported but can be changed to any image supporter [w3m not recommended]
-
-**> Limits:** Only displays what you edit it to display.
+**> Bash Image Line - jp2a supported but can be changed to any image supporter.**
 
 ---
 # Tip from Author:
@@ -56,7 +54,7 @@ This fetch tool uses a bash command to display image, No pre-loaded ASCII distro
 3. Share a link to your fork
 4. Or submit a Pull Request
 
-This is a community tool - tweaking is HEAVILY SUPPORTED.
+- This is a community tool - tweaking is HEAVILY SUPPORTED.
 
 ---
 # License
