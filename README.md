@@ -51,6 +51,8 @@ This fetch tool uses a bash command to display image, Currently 33 pre-loaded AS
 
 **> New code snippet added which matches the colour of the info box to the respective ASCII distro logo.**
 
+**> box.size function added to adjust the info box's size easily and also to change the characters of the borders.** 
+
 ---
 # Features:
 
