@@ -63,7 +63,7 @@ curl -O https://raw.githubusercontent.com/RetroGitArc/perfetch/main/perfetch.sh
 **> Bash Image Line - jp2a supported but can be changed to any image supporter.**
 
 ---
-# Tip from Author:
+# Tip from Coder:
 - If you found a bug / Improved something, Share your version in the Discussions, or:
 
 1. Fork the repo
