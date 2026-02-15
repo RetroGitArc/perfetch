@@ -24,17 +24,17 @@ curl -O https://raw.githubusercontent.com/RetroGitArc/perfetch/main/perfetch.sh
 - chmod +x perfetch.sh [Makes it executable]
 - ./perfetch.sh
 
-<img width="1914" height="1073" alt="Screenshot From 2025-12-27 13-47-09" src="https://github.com/user-attachments/assets/ba22152c-7c3f-4a81-9954-89d6250f6a53" />
+<img width="1920" height="1078" alt="Screenshot From 2026-02-15 21-53-28" src="https://github.com/user-attachments/assets/10fd1ff3-84ae-428e-9f24-4bab1f5f5f7b" />
 
 ---
 - This is how it should initially look, after that configuration is **possible from any editors**, gedit supported too, and the code is **provided with comments to help** you out with understanding and configuring the code.
+
+**> Point to note:** Please extract out the **perfetch-logos** folder from the .zip file provided in the **perfetch-main** folder before running the code, else **the ASCII logo may not display.**
+  
 ---
-**> Important Points:**
+**> Words from the coder:**
 - If you like the fetch tool, its recommened to check the **repository's pinned comment in the Announcements in Discussions Tab** for more details on how to set it up in your /usr/local/bin for ease.
 - And if in future you no longer decide to use the tool, feel free to remove it as its **not co-relatively connected with the root for any damage to be delievered to the system.**
-
-**> Important Note:
-This fetch tool uses a bash command to display image, Currently 33 pre-loaded ASCII distro logos are in this fetch tool, listed in the code itself.**
 
 ---
 # New Functions:
