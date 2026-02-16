@@ -38,7 +38,7 @@
 - And if in future you no longer decide to use the tool, feel free to remove it as its **not co-relatively connected with the root for any damage to be delievered to the system.**
 
 ---
-# New Functions:
+# New Features & Functions:
 
 **> Packages code snippet fixed, output runtime is slightly slow but packages are finally shown.**
 
@@ -53,6 +53,10 @@
 **> New code snippet added which matches the colour of the info box to the respective ASCII distro logo.**
 
 **> box.size function added to adjust the info box's size easily and also to change the characters of the borders.**
+
+**> Bash Image Line - jp2a recommended but can be changed to any image supporter.**
+
+**> Heavily tweakable and you can add your distro ASCII logo if its not present within the code, concatenate (cat) command is used to display the ASCII logo.**
 
 **> New 33 ASCII distro logos including:**
 - Alpine Linux
@@ -87,15 +91,6 @@
 - Zorin OS
 - FreeBSD 
 - OpenBSD
----
-# Features:
-
-**> Single file of code provided with a .zip folder containing the ASCII distro logos**
-
-**> Heavily tweakable and you can add your distro ASCII logo if its not present within the code, concatenate (cat) command is used to display the ASCII logo.**
-
-**> Bash Image Line - jp2a supported but can be changed to any image supporter.**
-
 ---
 # Tip from Coder:
 - If you found a bug / Improved something, Share your version in the Discussions, or:
