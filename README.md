@@ -55,6 +55,26 @@
 **> box.size function added to adjust the info box's size easily and also to change the characters of the borders.**
 
 **> New 33 ASCII distro logos including:**
+- Alpine Linux
+- Arch Linux 
+- Arco Linux
+- Debian
+- Dragonfly
+- Endeavour OS 
+- Elementary OS
+- Fedora Linux
+- Garuda Linux
+- Kali Linux
+- Linux Mint
+- mac OS 
+- Manjaro 
+- NixOS
+- openSUSE Tumbleweed
+- openSUSE Leap
+- Pop_OS!
+- Redhat
+- Slackware 
+- Steam OS 
 - Ubuntu
 - Lubuntu 
 - Kubuntu 
@@ -63,30 +83,10 @@
 - Ubuntu Studio 
 - Ubuntu Mate 
 - Ubuntu Budgie 
-- Arch Linux 
-- Arco Linux 
-- Redhat 
-- Dragonfly
-- Fedora Linux
-- Alpine Linux
-- Debian 
-- FreeBSD 
-- mac OS 
-- NixOS
-- OpenBSD
-- Manjaro 
-- Elementary OS 
-- Slackware 
-- openSUSE Tumbleweed
-- openSUSE Leap 
 - Void Linux
-- Pop_OS!
-- Endeavour OS 
-- Linux Mint 
-- Garuda Linux
-- Kali Linux 
-- Zorin OS 
-- Steam OS 
+- Zorin OS
+- FreeBSD 
+- OpenBSD
 ---
 # Features:
 
