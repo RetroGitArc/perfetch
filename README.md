@@ -52,8 +52,41 @@
 
 **> New code snippet added which matches the colour of the info box to the respective ASCII distro logo.**
 
-**> box.size function added to adjust the info box's size easily and also to change the characters of the borders.** 
+**> box.size function added to adjust the info box's size easily and also to change the characters of the borders.**
 
+**> New 33 ASCII distro logos including:**
+- Ubuntu
+- Lubuntu 
+- Kubuntu 
+- Xubuntu 
+- Ubuntu GNOME 
+- Ubuntu Studio 
+- Ubuntu Mate 
+- Ubuntu Budgie 
+- Arch Linux 
+- Arco Linux 
+- Redhat 
+- Dragonfly
+- Fedora Linux
+- Alpine Linux
+- Debian 
+- FreeBSD 
+- mac OS 
+- NixOS
+- OpenBSD
+- Manjaro 
+- Elementary OS 
+- Slackware 
+- openSUSE Tumbleweed
+- openSUSE Leap 
+- Void Linux
+- Pop_OS!
+- Endeavour OS 
+- Linux Mint 
+- Garuda Linux
+- Kali Linux 
+- Zorin OS 
+- Steam OS 
 ---
 # Features:
 
