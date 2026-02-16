@@ -14,6 +14,7 @@
 
 -----
 **> Setup:**
+
 **Installation:**
 - Installation is supported in both ways, link and .zip file [Straight from this github itself]
 
