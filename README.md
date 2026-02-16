@@ -87,7 +87,8 @@
 - Ubuntu GNOME 
 - Ubuntu Studio 
 - Ubuntu Mate 
-- Ubuntu Budgie 
+- Ubuntu Budgie
+- Unknown OS
 - Void Linux
 - Zorin OS
 - FreeBSD 
